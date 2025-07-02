@@ -9,7 +9,7 @@
 
 **An immersive 3D educational platform that transforms how we learn about Earth's systems and space exploration**
 
-[🌟 **Live Demo**](https://devagnihotri.github.io/Agniverse/) | [📖 **Documentation**](#features) | [🚀 **Getting Started**](#getting-started)
+[🌟 **Live Demo**](https://agniverse.netlify.app/) | [📖 **Documentation**](#features) | [🚀 **Getting Started**](#getting-started)
 
 </div>
 
