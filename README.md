@@ -251,7 +251,7 @@ _Making Earth science education accessible through innovative technology_
 
 ### 🚀 **Ready to Explore?**
 
-**[🌍 Launch Agniverse](https://devagnihotri.github.io/Agniverse/)**
+**[🌍 Launch Agniverse](https://agniverse.netlify.app/)**
 
 _The universe of Earth science education awaits you_
 
