@@ -15,6 +15,33 @@
 
 ---
 
+## 📸 Screenshots
+
+Images below are shown in a logical order: **Landing → Contents → Screens**.
+
+1. **Landing section (main page)**  
+   ![Landing section](screenshots/Landingsection.png)
+
+2. **Contents / Overview**  
+   ![Contents](screenshots/contents.png)
+
+3. **Feature / Page (2025-06-21 05:39:18)**  
+   ![Screenshot 053918](screenshots/Screenshot%202025-06-21%20053918.png)
+
+4. **Feature / Page (2025-06-21 05:40:02)**  
+   ![Screenshot 054002](screenshots/Screenshot%202025-06-21%20054002.png)
+
+5. **Feature / Page (2025-06-21 05:40:37)**  
+   ![Screenshot 054037](screenshots/Screenshot%202025-06-21%20054037.png)
+
+6. **Feature / Page (2025-06-21 05:41:08)**  
+   ![Screenshot 054108](screenshots/Screenshot%202025-06-21%20054108.png)
+
+7. **Feature / Page (2025-06-21 05:41:48)**  
+   ![Screenshot 054148](screenshots/Screenshot%202025-06-21%20054148.png)
+
+---
+
 ## 🎯 **What Makes Agniverse Special?**
 
 > **Agniverse** isn't just another educational website—it's a **next-generation interactive experience** that combines cutting-edge 3D technology with space-themed aesthetics to create an unforgettable learning journey through Earth's complex systems.
